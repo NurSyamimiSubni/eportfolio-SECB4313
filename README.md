@@ -1,3 +1,8 @@
-# eportfolio-SECB4313
-🗒️Overview
-This repository is for me to upload all my assignment for subject Technology and Information System SECP1513-05 e-portfolio. Thanks a lot to our lecturer: DR AZURAH A SAMAH for giving us many support.
+# 🗒️Overview
+This repository is for me to upload all my assignment for subject TBioinformatics Modeling and Simulation SECB4313-01 e-portfolio. Thanks a lot to our lecturer: DR AZURAH A SAMAH for giving us many support.
+
+# 🖋️Synopsis
+The primary focus of this course is to introduce students to Bioinformatics Modeling and Simulation. The discipline of modelling and simulation is increasingly being applied to biological problems. The problems are ranging from kinetic responses of atoms, complex reactions of biochemical pathways, and temporal behaviors of the biological systems. In this course, students are exposed to the fundamentals of mathematical modeling for simulating the behaviors of biological systems. The knowledge on how the systems work will be implemented in technical applications, which will involve several domains including healthcare and biotechnology. The students also involve in a number of problem solving activities using modeling techniques that will lead them to the development of contributing the knowledge for the domains.
+
+My objective for this course is I can explain the basic definition and concept of Bioinformatics Modeling and Simulation. I can also identify the types of techniques and understand the role of Bioinformatics Modeling and Simulation. I study this course so I can formulate appropriate solutions for problems and design	computational solutions. I am committed to rigorous study practices, involving self-study, active participation in class discussions, and collaborative learning with peers. So that I can develop team-working skills for	implementing computational techniques in
+domains.
